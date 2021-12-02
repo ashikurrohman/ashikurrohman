@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashikur Rahman</h1>
-<h3 align="center">A passionate Web Developer | Security Researcher | Digital Marketer</h3>
+<h3 align="center"> Web Developer | Security Researcher | Digital Marketer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurrohman" /> </p>
 
